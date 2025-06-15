@@ -64,3 +64,4 @@ npm run build
 
 /client        # (React + Vite + Chakra UI)
 /lambda        # lambda function for presign and summarize
+/.gitignore
