@@ -1,0 +1,25 @@
+# Node
+node_modules/
+.env
+dist/
+.build/
+.cache/
+
+# Vite
+.vite/
+
+# AWS
+.serverless/
+lambda-upload/.env
+
+# React
+client/node_modules/
+client/dist/
+client/.env
+
+# Logs
+*.log
+
+# Mac
+.DS_Store
+
